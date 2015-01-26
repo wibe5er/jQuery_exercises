@@ -12,11 +12,10 @@ You are going to build a table and a form where the user can type in a color and
 thead, tbody and tfoot.
 4. Build a form that allows the user to input some text. Give that form a label of "Change the background color for even rows". Use `<label for="">` to properly build your forms.
 6. Add a submit button with the text "Change!"
-1. If the user has submitted a valid color, use a css seleector along with the val() and css() methods to capture the input value and change the background color for the even rows.
+1. If the user has submitted a valid color, use a css selector along with the val() and css() methods to capture the input value and change the background color for the even rows.
 2. Make sure that the first row of the table (the row with `th` tags) does not change color! Your selector should only target `td` tags.
 
-Re
-member the proper way to build a table (using symantically correct tags like thead, tbody and tfoot)
+Remember the proper way to build a table (using symantically correct tags like thead, tbody and tfoot)
 2. Use odd/even or n-th child selectors
 
 
